@@ -1,0 +1,38 @@
+#basicdiv{
+    border: 1px solid #DDD;width:450px; 
+    margin-top: 10%;
+    margin-bottom: 50%;
+    margin-right:60%;
+    margin-left: 32%;
+    height: 500px;
+    border-radius: 10px;
+}
+
+#psauimage{
+    width: 130px;
+    margin-left: 38%;
+    margin-top: 5px;
+}
+#fepimage{
+    width:400px;
+    margin-left: 15%;
+}
+
+#inputdiv{
+    width: 300px;
+    margin-left: 20%;
+    padding: 10px;
+
+}
+.usernameinput{
+  color:#272626;
+}
+#loginsubmit{
+    background-color: rgba(247, 247, 247, 0.208); 
+    border: 1px solid #DDD;
+    padding: 11px 30px;
+    text-align: center;
+    border-radius: 10px;
+    margin-left: 25%;
+    font-size: 16px;
+}
